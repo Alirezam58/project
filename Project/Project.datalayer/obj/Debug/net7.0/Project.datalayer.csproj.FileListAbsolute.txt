@@ -1,0 +1,14 @@
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\bin\Debug\net7.0\Project.datalayer.deps.json
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\bin\Debug\net7.0\Project.datalayer.runtimeconfig.json
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\bin\Debug\net7.0\Project.datalayer.dll
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\bin\Debug\net7.0\Project.datalayer.pdb
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\obj\Debug\net7.0\Project.datalayer.csproj.AssemblyReference.cache
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\obj\Debug\net7.0\Project.datalayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\obj\Debug\net7.0\Project.datalayer.AssemblyInfoInputs.cache
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\obj\Debug\net7.0\Project.datalayer.AssemblyInfo.cs
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\obj\Debug\net7.0\Project.datalayer.csproj.CoreCompileInputs.cache
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\obj\Debug\net7.0\Project.datalayer.dll
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\obj\Debug\net7.0\refint\Project.datalayer.dll
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\obj\Debug\net7.0\Project.datalayer.pdb
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\obj\Debug\net7.0\Project.datalayer.genruntimeconfig.cache
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.datalayer\obj\Debug\net7.0\ref\Project.datalayer.dll

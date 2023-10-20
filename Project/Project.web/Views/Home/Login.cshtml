@@ -1,0 +1,35 @@
+﻿<div class='page-container'>
+    <div class='page'>
+        <div class='logo'>
+            <img src="~/images/logo-large.png" />
+        </div>
+        <div class='login'>
+            <h1>Willkommen</h1>
+            <p class='mb-5'>Bitte melden Sie sich an, um auf Ihr Projekt zuzugreifen</p>
+            <form class='form'>
+                <input type="text" placeholder="Email" class="input"/>
+                <input type="password" placeholder="Password" class="input password-input" />
+                <heroicon kind="Outline" name="Eye" class="icon toggle-password" data-visible="false" />
+                <button class="btn">anmelden</button>
+            </form>
+            <a class="link" asp-action="ForgetPassword">Password vergessen</a>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".toggle-password").on("click", function () {
+            var passwordInput = $(this).siblings(".password-input");
+            var visible = $(this).data("visible");
+            if (visible === "false") {
+                passwordInput.attr("type", "text");
+                $(this).data("visible", "true");
+            } else {
+                passwordInput.attr("type", "password");
+                $(this).data("visible", "false");
+            }
+        });
+    });
+</script>

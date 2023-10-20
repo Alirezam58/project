@@ -1,0 +1,15 @@
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\bin\Debug\net7.0\Project.core.deps.json
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\bin\Debug\net7.0\Project.core.dll
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\bin\Debug\net7.0\Project.core.pdb
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\obj\Debug\net7.0\Project.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\obj\Debug\net7.0\Project.core.AssemblyInfoInputs.cache
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\obj\Debug\net7.0\Project.core.AssemblyInfo.cs
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\obj\Debug\net7.0\Project.core.csproj.CoreCompileInputs.cache
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\obj\Debug\net7.0\Project.core.dll
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\obj\Debug\net7.0\refint\Project.core.dll
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\obj\Debug\net7.0\Project.core.pdb
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\obj\Debug\net7.0\ref\Project.core.dll
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\obj\Debug\net7.0\Project.core.csproj.AssemblyReference.cache
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\bin\Debug\net7.0\Project.datalayer.dll
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\bin\Debug\net7.0\Project.datalayer.pdb
+C:\Users\Ali Mojtabaei Banaei\Desktop\Project\Project\Project.core\obj\Debug\net7.0\Project.core.csproj.CopyComplete
